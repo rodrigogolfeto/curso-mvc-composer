@@ -1,1 +1,1 @@
-# primeira-aplicacao-php-utilizando-mvc
+# Curso - Primeira Aplicação PHP Utilizando MVC
